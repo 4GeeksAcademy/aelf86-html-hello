@@ -1,0 +1,14 @@
+.post {
+    width: 600px;
+    margin: 0px auto;
+
+}
+.post-header {
+    display:flex;
+    justify-content:space-between;
+    border: 1px solid red;
+}
+img {
+    width: 600px;
+    margin: 0px auto;
+}
