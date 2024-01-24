@@ -1,13 +1,27 @@
+.post-header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px, 10px;
+}
+.post-header-left {
+    display:flex;
+    border: 1px solid red;
+    align-items: center;
+}
+.post-header-left p {
+    border: 1px solid red;
+    margin:0px;
+}
+.post-header-left div {
+    border: 1px solid red;
+}
 .post {
     width: 600px;
     margin: 0px auto;
 
 }
-.post-header {
-    display:flex;
-    justify-content:space-between;
-    border: 1px solid red;
-}
+
 img {
     width: 600px;
     margin: 0px auto;
